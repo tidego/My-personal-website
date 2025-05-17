@@ -1,20 +1,18 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/tidego)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am a student from Qufu Normal University
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+
+<code>zhaolin_gu@163.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Qufu Normal University**,Master of Software Engineering
+• GPA: 4.21/5, Rank: 1/191
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+
+##### LLM
+
