@@ -1,27 +1,27 @@
 老师非常开心老师可以看到这里,这里对简历上的经历进行补充
 
-### **全国大学生数学建模竞赛全国一等奖**  
+### **National First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)**  
 
-**January 2025 – June 2025 | ByteDance**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions  
-
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+I led the formation of our team and began preparing for our first modeling competition in January 2024. Throughout the process, I systematically learned how to translate real‑world problems into mathematical models and sharpened my skills in literature review, academic writing, and data visualization. This competition marked the starting point of my research career. I gained hands‑on experience with various mathematical models, experimented with intelligent algorithms, studied model optimization and data‑analysis techniques, and significantly improved my teamwork abilities.
 
 ---
 
-### **软件工程师实习生**  
+### **Reinforcement‑Learning‑Driven Simulation of Urban Policy Transfer Effects and Carbon‑Emission Efficiency Prediction**  
 
-**2025年1月 – 2025年6月 | 字节跳动**  
+This paper stems from our team’s long‑term work in statistical modeling and was inspired by the question of whether historical policies can be transplanted. Based on three assumptions:
+1.Changes in a province’s development features between two consecutive years are entirely caused by the previous year’s policies;
+2.Future policy impacts must lie within the subset of impacts produced by the province’s historical policies;
+3.If a province adopts one of its historical policies in the future, that policy will influence development features in the same way as it did in the past.
+We developed a highly interpretable model for policy‑transfer simulation and carbon‑emission efficiency prediction. Comparative experiments show that our model enjoys an advantage in fitting accuracy.
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+---
 
-#### 主要贡献  
+### **视听类AIGC使用效能和作品接受意愿的研究**
 
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+In this project I effectively served as the deputy lead. Although the competition focused on market survey and analysis, the knowledge‑graph‑based multi‑agent analysis system we employed is closely related to my academic background and research interests.This experience made me reflect on how markets operate. Academic research should not only serve society and lead to technological advancements, but also generate market and commercial value.
+
+---
+
+###  **Reversing the Prompt, Revealing the Model**
+
+Under the supervision of my supervisor, I systematically studied knowledge graphs. With the emergence of large language models (LLMs), many traditional knowledge graph tasks can now be addressed by LLMs due to their enhanced semantic understanding. Inspired by evolutionary genetics, I initially attempted to design a multi-agent evolutionary system with life cycles, using a knowledge graph as the knowledge repository. However, due to the complexity of the project and limited computational resources, we shifted—on my supervisor’s advice—to research on prompt engineering. The paper currently in progress compares the Doubao and Qwen LLM series. Preliminary experiments suggest that more capable models are often more likely to generate toxic content when using the TPR approach. Given the scarcity of reference materials in this area, considerable further work is required to complete a high-quality paper, which we plan to submit to a CCF-C conference.
