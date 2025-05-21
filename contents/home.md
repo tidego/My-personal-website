@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/tidego)
+[![tidego](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/tidego)
 
 Grateful acknowledgment is extended for the time and attention given to this personal homepage.
 
