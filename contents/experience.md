@@ -1,4 +1,7 @@
-老师非常开心老师可以看到这里,这里对简历上的经历进行补充
+I sincerely appreciate your taking the time to read this. It means a lot to me, and I’d like to share a bit more context on the experience listed in my resume.
+
+
+
 
 ### **National First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)**  
 
