@@ -19,7 +19,7 @@ We developed a highly interpretable model for policy‑transfer simulation and c
 
 ---
 
-### **视听类AIGC使用效能和作品接受意愿的研究**
+### **A Study on the Practical Utility of AIGC Tools in Audiovisual Creation and Users' Willingness to Accept the Generated Works**
 
 In this project I effectively served as the deputy lead. Although the competition focused on market survey and analysis, the knowledge‑graph‑based multi‑agent analysis system we employed is closely related to my academic background and research interests.This experience made me reflect on how markets operate. Academic research should not only serve society and lead to technological advancements, but also generate market and commercial value.
 
