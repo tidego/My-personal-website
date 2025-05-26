@@ -1,8 +1,5 @@
 I sincerely appreciate your taking the time to read this. It means a lot to me, and I’d like to share a bit more context on the experience listed in my resume.
 
-
-
-
 ### **National First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)**  
 
 I led the formation of our team and began preparing for our first modeling competition in January 2024. Throughout the process, I systematically learned how to translate real‑world problems into mathematical models and sharpened my skills in literature review, academic writing, and data visualization. This competition marked the starting point of my research career. I gained hands‑on experience with various mathematical models, experimented with intelligent algorithms, studied model optimization and data‑analysis techniques, and significantly improved my teamwork abilities.
@@ -25,6 +22,6 @@ In this project I effectively served as the deputy lead. Although the competitio
 
 ---
 
-###  **Reversing the Prompt, Revealing the Model**
+### **Reversing the Prompt, Revealing the Model**
 
 Under the supervision of my supervisor, I systematically studied knowledge graphs. With the emergence of large language models (LLMs), many traditional knowledge graph tasks can now be addressed by LLMs due to their enhanced semantic understanding. Inspired by evolutionary genetics, I initially attempted to design a multi-agent evolutionary system with life cycles, using a knowledge graph as the knowledge repository. However, due to the complexity of the project and limited computational resources, we shifted—on my supervisor’s advice—to research on prompt engineering. The paper currently in progress compares the Doubao and Qwen LLM series. Preliminary experiments suggest that more capable models are often more likely to generate toxic content when using the TPR approach. Given the scarcity of reference materials in this area, considerable further work is required to complete a high-quality paper, which we plan to submit to a CCF-C conference.

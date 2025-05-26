@@ -12,9 +12,6 @@ Grateful acknowledgment is extended for the time and attention given to this per
 
 • GPA: 4.21/5, Rank: 1/191
 
-
 #### Research Interests  
 
-With a strong desire to excel in my graduate studies, I aspire to make meaningful contributions in areas such as large language models, machine learning, knowledge graphs, embodied intelligence, or related interdisciplinary fields, through research that brings value to society and benefits humanity.
-
-
+With a strong desire to excel in my graduate studies, I aspire to make meaningful contributions through research that brings value to society, particularly in areas such as large language models, multimodal models, machine learning, embodied intelligence, and cross-disciplinary topics within computer science.
