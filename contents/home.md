@@ -2,10 +2,10 @@
 
 Grateful acknowledgment is extended for the time and attention given to this personal homepage.
 
-#### Email  
+#### Email&Github  
 
 <code>zhaolin_gu@163.com</code>  
-
+<code>https://github.com/tidego</code>
 #### Education  
 
 **Qufu Normal University**,Master of Software Engineering
@@ -14,4 +14,6 @@ Grateful acknowledgment is extended for the time and attention given to this per
 
 #### Research Interests  
 
-With a strong desire to excel in my graduate studies, I aspire to make meaningful contributions through research that brings value to society, particularly in areas such as large language models, multimodal models, machine learning, embodied intelligence, and cross-disciplinary topics within computer science.
+I am open to a wide range of research directions and am eager to tackle challenging problems under the guidance of my supervisor. With a strong commitment to learning and exploration, I am willing to adapt to project needs and devote myself fully to meaningful academic work.
+
+
